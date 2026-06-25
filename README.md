@@ -3,7 +3,7 @@
 Welcome to the **Mapema B2B Landing Page** repository. Mapema is a premier B2B platform designed to streamline operations and empower businesses. This project contains the source code for the landing page of Mapema version 3.
 
 ## 🔗 Live URL
-**https://landingpage-mapemav3.vercel.app/(#)** *(Replace this with the actual URL once deployed)*
+**https://landingpage-mapemav3.vercel.app/** *(Replace this with the actual URL once deployed)*
 
 ---
 
